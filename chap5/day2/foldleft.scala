@@ -1,0 +1,1 @@
+strList.foldLeft(0)((sum, value) => sum + value.size)
